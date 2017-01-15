@@ -29,6 +29,13 @@ import com.mtm.alpha.game.Tile;
 import com.mtm.alpha.game.World;
 import com.mtm.alpha.game.WorldSettings;
 
+/**
+ * © 2016 mTm Michał Macioła Development
+ * Contact at mtmsweb@gmail.com
+ * License Apache 2.0
+ * https://github.com/mtmsweb/Alpha
+ */
+
 public class GameScene extends Canvas implements FrameListener, MouseMotionListener, NetworkListener {
 
 	private static final long serialVersionUID = 1L;
