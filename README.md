@@ -10,4 +10,5 @@ Sterowanie realizowane jest przy pomocy kursora myszy, strzałek lub klawiszy WS
 ![alt tag](https://github.com/mtmsweb/Alpha/blob/master/screen_2.jpg)
 
 © 2016 mTm Michał Macioła Development
-Licenca Apache 2.0
+Contact at mtmsweb@gmail.com
+License Apache 2.0
