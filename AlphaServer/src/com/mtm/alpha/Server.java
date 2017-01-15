@@ -16,6 +16,13 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Properties;
 
+/**
+ * © 2016 mTm Michał Macioła Development
+ * Contact at mtmsweb@gmail.com
+ * License Apache 2.0
+ * https://github.com/mtmsweb/Alpha
+ */
+
 public class Server implements Runnable {
     private Thread mThread;
     private ServerSocket mSocket;
